@@ -10,13 +10,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/raw/big5_leagues_2024_2025_stats_processed.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
