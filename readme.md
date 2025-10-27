@@ -246,21 +246,6 @@ seaborn>=0.12.0
 
 ---
 
-## 📞 Contacto y Soporte
-
-### Autor
-- **Nombre**: [Tu Nombre]
-- **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- **Email**: tuemail@ejemplo.com
-- **GitHub**: [github.com/tu-usuario](https://github.com/tu-usuario)
-
-### Soporte
-- 🐛 **Issues**: [GitHub Issues](https://github.com/tu-usuario/player-similarity-finder/issues)
-- 💬 **Discusiones**: [GitHub Discussions](https://github.com/tu-usuario/player-similarity-finder/discussions)
-- 📧 **Email**: Contacto directo para colaboraciones
-
----
-
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo la **MIT License**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
